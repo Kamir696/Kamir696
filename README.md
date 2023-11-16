@@ -25,7 +25,7 @@ pip install -r requirements.txt
 To start the application, run the following command:
 
 ```
-python app.py
+python app.py.
 ```
 
 This will start the Flask development server. You can access the application by visiting `http://localhost:5000` in your web browser.
