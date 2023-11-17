@@ -33,10 +33,10 @@ label {
 }
 
 input[type="number"] {
-  padding: 10px;
+  padding: 11px;
   border-radius: 5px;
   border: none;
-  margin-bottom: 20px;
+  margin-bottom: 21px;
   width: 100%;
   box-sizing: border-box;
 }
